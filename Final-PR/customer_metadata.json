@@ -1,0 +1,14 @@
+[
+    {
+        "customer_id": 1,
+        "email": "customer1@gmail.com",
+        "city": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "customer_id": 2,
+        "email": "customer2@gmail.com",
+        "city": "Surat",
+        "state": "Gujarat"
+    }
+]
